@@ -201,6 +201,9 @@
 // request/response of the integer parameter services
 #include "i2cpwm_board/IntValue.h"
 
+extern "C" {
+	#include <i2c/smbus.h>
+}
 
 /// @cond PRIVATE_NO_PUBLIC DOC
 
