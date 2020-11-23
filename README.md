@@ -1,3 +1,4 @@
+# 根据开源项目进行的探索，主要添加了语音控制的功能
 # Spot Micro Quadruped Project
 
 ![Spot Micro Walking](assets/spot_micro_walking.gif)
